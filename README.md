@@ -1,9 +1,12 @@
 # exceptional-application
 Application which presents some methods of exception handling. 
-Program uses spring framework and swagger libraries. Spring boot starts application on embedded tomcat server allowing to use application on browser.
-Usage of swagger gives graphical documentation and UI for testing endpoints. Each endpoint is responsible to present different method of
-exception handling. Project consists of two controllers first - StandardExceptionController presents various exception handling methods
-in pure java, second - RestExceptionController presents various exception with usage of spring framework. Every method is describe at swagger.
+Program uses spring framework and swagger libraries. 
+Spring boot starts application on embedded tomcat server allowing to use application on browser.
+Usage of swagger gives graphical documentation and UI for testing endpoints. 
+Each endpoint is responsible for presenting different method of exception handling. 
+Project consists of two controllers first - StandardExceptionController presents various exception handling methods
+in pure java, second - RestExceptionController presents various exception with usage of spring framework. 
+Every method is describe at swagger.
 
 To run program:
 1. download run-exceptional-application.jar
